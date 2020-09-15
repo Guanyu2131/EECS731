@@ -1,4 +1,4 @@
-# EECS_731
+# EECS_731 Introduction to Data Science
 
 ## Instructor
 Martin Kuehnhausen, Ph.D.
