@@ -1,7 +1,7 @@
 # EECS 731 Introduction to Data Science
 
 ## Instructor
-Martin Kuehnhausen, Ph.D.
+Dr. Martin Kuehnhausen
 
 ## Catalog Course Description
 This course covers topics in data collection, data transmission, and data analysis, in support of discoveries and
@@ -11,21 +11,21 @@ EECS 731 is a project-oriented course. It offers hands-on experience for student
 
 ## Course Topics
 The following topics may be covered:
-• The Role of a Data Scientist
-• Data Science Life Cycle
-• Data Acquisition
-• Data Cleaning
-• Feature Extraction
-• Data Modeling Strategies
-• Classification
-• Clustering
-• Regression
-• Time Series Forecasting
-• Anomaly Detection
-• Model management and Deployment
-• Visualization
-• Data Science Story Telling
-• Large Scale Data Management and Processing
-• Neural Networks
-• Parameter Tuning
-• Industry Guide Lines
+<br /> • The Role of a Data Scientist
+<br /> • Data Science Life Cycle
+<br /> • Data Acquisition
+<br /> • Data Cleaning
+<br /> • Feature Extraction
+<br /> • Data Modeling Strategies
+<br /> • Classification
+<br /> • Clustering
+<br /> • Regression
+<br /> • Time Series Forecasting
+<br /> • Anomaly Detection
+<br /> • Model management and Deployment
+<br /> • Visualization
+<br /> • Data Science Story Telling
+<br /> • Large Scale Data Management and Processing
+<br /> • Neural Networks
+<br /> • Parameter Tuning
+<br /> • Industry Guide Lines
